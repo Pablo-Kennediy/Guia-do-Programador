@@ -2,7 +2,7 @@
 body{
     background-color: black;
     color: white;
-    background: url("../imagens/fd.png");
+    background: url(../imagens/fd.png);
     background-size: cover;
 }
 .camada1{
