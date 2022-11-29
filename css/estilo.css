@@ -16,35 +16,29 @@ li{
     margin: 10px;
     border: 2px solid rgb(126, 7, 162);
 }
-div#box-text {
-    width: 100%;
-    position: center;
-    border-radius: 10px;
-}
-.camada1{
-    width: 100%;
-    height: 100%;
-}
 section{
+    padding: 1px;
     margin-top: 100px;
     margin-left: 20px;
+    text-align: center;
 }
-.flex-container h1{
+section#interface h1{
+    display: block;
     font-family: cursive;
     text-align: center;
     border: 1px solid rgb(124, 76, 191);
-    padding: 3px;
-    margin: 5px;
-    width: 500px;
+    width: 100%;
 }
-.flex-container p{
+section#interface p{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    text-align: justify;
     border: 1px solid rgb(31, 22, 116);
-    padding: 10px;
-    margin: 5px;
     width: 200px;
     height: 150px;
+    padding: 10px;
+}
+div.flex-container{
+    width: 800px;
+    margin: auto;
 }
 .flex-item{
     display: inline-flex;
