@@ -1,6 +1,6 @@
 # Guia do programador
 
-* Esse foi um site que fiz com o intuito de agrupar as informações corretas que eu teremino que todo bom programador precisa ter.
+* Esse foi o ['Site'](https://pablo-kennediy.github.io/Guia-do-Programador/) que fiz com o intuito de agrupar as informações corretas que eu teremino que todo bom programador precisa ter.
 
 Conforme passam os anos, a tecnologia vem fazendo parte das nossas vidas com mais frequência, desde um simples smartphone até geladeiras com touch screen e espelhos inteligentes (smart mirrors). 
 
