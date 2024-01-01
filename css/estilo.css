@@ -17,9 +17,8 @@ li{
     border: 2px solid rgb(126, 7, 162);
 }
 section{
+    max-width: 800px;
     padding: 1px;
-    margin-top: 100px;
-    margin-left: 20px;
     text-align: center;
 }
 section#interface h1{
@@ -27,21 +26,12 @@ section#interface h1{
     font-family: cursive;
     text-align: center;
     border: 1px solid rgb(124, 76, 191);
-    width: 100%;
 }
 section#interface p{
     font-family: Georgia, 'Times New Roman', Times, serif;
     border: 1px solid rgb(31, 22, 116);
-    width: 200px;
-    height: 150px;
     padding: 10px;
 }
-div.flex-container{
-    width: 800px;
-    margin: auto;
-}
 .flex-item{
-    display: inline-flex;
-    height: 90px;
     box-shadow: 1px 1px 1px rgb(119, 119, 120);
 }
