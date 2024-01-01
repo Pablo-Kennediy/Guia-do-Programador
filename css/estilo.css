@@ -1,8 +1,10 @@
 @charset "UTF=pt-br";
+*{
+    font-family:monospace;
+}
 body{
     background-color: black;
     color: white;
-    background: url(../imagens/fd.png);
     background-size: cover;
 }
 nav{
