@@ -2,6 +2,10 @@
 *{
     font-family:monospace;
 }
+a{
+    text-decoration: none;
+    margin: 5px;
+}
 body{
     background-color: black;
     color: white;
@@ -16,6 +20,8 @@ ul{
 li{
     display: inline-block;
     margin: 10px;
+    padding: 15px;
+    border-radius: 15px;
     border: 2px solid rgb(126, 7, 162);
 }
 section{
@@ -38,5 +44,15 @@ section#interface p{
     box-shadow: 1px 1px 1px rgb(119, 119, 120);
 }
 footer{
-    margin-top: 100vh;
+    margin-top: 100px;
+}
+img{
+    display: block;
+    margin: auto;
+    max-width: 255px;
+}
+p{
+    max-width: 85%;
+    margin: auto;
+    margin-top: 15px;
 }
