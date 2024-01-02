@@ -37,3 +37,6 @@ section#interface p{
 .flex-item{
     box-shadow: 1px 1px 1px rgb(119, 119, 120);
 }
+footer{
+    margin-top: 100vh;
+}
